@@ -1,7 +1,8 @@
 export default function AppMain(){
 
-    return(
+    return (
         <main>
+            <h1>Ciao</h1>
             </main> 
     )
 }
