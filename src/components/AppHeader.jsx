@@ -1,8 +1,18 @@
-export default function AppHeader(){
+export default function AppHeader() {
 
-    return(
-        <header> 
-            
-            </header>
+    return (
+        <header>
+            <img src="./img/dc-logo.png" alt=""/>
+            <li>
+                <ul>Characters</ul>
+                <ul>Comics</ul>
+                <ul>Comics</ul>
+                <ul>Comics</ul>
+                <ul>Comics</ul>
+                <ul>Comics</ul>
+
+
+            </li>
+        </header>
     )
 }
