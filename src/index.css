@@ -36,6 +36,10 @@ h3{
   width: 200px;
 
 }
+.btn-load{
+  background-color: rgb(44, 44, 235);
+  color:white;
+}
 .secondContainer{
   background-color: rgb(38, 126, 198);
   display:flex;

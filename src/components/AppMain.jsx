@@ -172,6 +172,7 @@ export default function AppMain(){
                             <h3>{index.series}</h3>
                     </div>
                 ))}
+                <button className="btn-load">LOAD MORE</button>
             </div>
                 <div class="secondContainer">
                 <img src={logo_digital} alt=""/>
